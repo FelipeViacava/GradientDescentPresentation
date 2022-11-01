@@ -1,0 +1,16 @@
+REST: Respresentational State Transfer
+API: application programing interface
+
+REST API: a way for applications to manipulate information / dealing with data in a structured format
+
+Rodar e debugar o FlaskV2
+
+como criar imagem docker com API em flask
+instalar o wsl e o docker no ubuntu
+pegar um docker file e entender o que faz
+
+o docker é usado pra encapsular o código binário do pickle para publicar APIs e modelos
+kubernets, POD (como docker é colocado em produção)/ AWS (sagemaker), Azzure (Azzure ML)
+
+Manual do DevOps
+Scrum
