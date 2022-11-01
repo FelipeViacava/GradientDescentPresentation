@@ -1,2 +1,2 @@
-# Portfolio
- This repository gathers the personal / academic projects that I would like to share with the community
+# Gradient Descent Presentation
+ This repository contains a presentation (in Portuguese only) about Gradient Descent for Logistic Regression.
